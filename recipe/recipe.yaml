@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "4.0.0"
+  version: "4.0.1"
   python_min: "3.11"
 
 package:
@@ -11,7 +11,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/sas7bdat-converter/sas7bdat_converter-${{ version }}.tar.gz
-  sha256: 11227c2707b6c423427cf00c151c7eb8c0af01e3c87b0790b3e5c656f489e32c
+  sha256: 4145e9ccc3fc03a6b8154a73ef73ce19cbc6fbdd055d7592287e4d46518b7df6
 
 build:
   number: 0
